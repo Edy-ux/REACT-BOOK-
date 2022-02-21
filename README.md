@@ -1,7 +1,7 @@
 # REACT-BOOK
 
-Conceitos e exemplos do livro mencionado abaixo. Acompanhe minha jornada pra se toranr um Dev React. 
-Usando modernos padróes para desenvolver aplicações React. 
+Conceitos e exemplos do livro mencionado abaixo. Acompanhe minha jornada pra se tornar um Desenvolvdor React. 
+Usando modernos padrões para desenvolver aplicações React. 
 
 Let´s go! 
 
